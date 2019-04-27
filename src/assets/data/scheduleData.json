@@ -1,43 +1,53 @@
 [
     {
-        "startTime":"09.00 AM",
+        "startTime":"09.30 AM",
         "topic":"Registration",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":"Register yourself and confirm your participation on the Help-desks."
     },
     {
         "startTime":"10.00 AM",
         "topic":"Welcome Keynote",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":"Brief intro about the organization, event, agenda, etc."
     },
     {
-        "startTime":"10.15 AM",
-        "topic":"Session 1",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"10.30 AM",
+        "topic":"Next’19 Recape / Announcement",
+        "des":"In this session, we will share the top announcement of Google Cloud Next'19 from the week across infrastructure, application development, data management, smart analytics and AI, productivity, partnerships, and more."
     },
     {
         "startTime":"11.00 AM",
-        "topic":"Session 2",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "topic":"GCP Certification",
+        "des":"This half-day instructor-led bootcamp helps prospective candidates structure their preparation for the Cloud Certification exam. The session will cover the structure and format of the examination, as well as its relationship to other Google Cloud certifications."
     },
     {
-        "startTime":"12.00 PM",
-        "topic":"Session 3",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"11.30 AM",
+        "topic":"Google Cloud Fundamentals",
+        "des":"This one-day instructor-led class provides an overview of Google Cloud Platform products and services. Through a combination of presentations, demos, and hands-on labs, participants learn the value of Google Cloud Platform and how to incorporate cloud-based solutions into business strategies."
+    },
+    {
+        "startTime":"12.00 AM",
+        "topic":"ML with GCP",
+        "des":"We will cover that, 'How to integrate/use Google Cloud APIs with Machine Learning?' in this session. We will also cover the various APIs like Vision API, Speech recognition API, Video Intelligence API, etc provided by Google Cloud Platform."
+    },
+    {
+        "startTime":"12.30 PM",
+        "topic":"Getting Started With Google Kubernetes",
+        "des":"Learn to containerize workloads in Docker containers, deploy them to Kubernetes clusters provided by Google Container Engine, and scale those workloads to handle increased traffic. You’ll also learn how to continuously deploy new code in a Kubernetes cluster to provide application updates."
     },
     {
         "startTime":"01.00 PM",
-        "topic":"Session 4",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "topic":"Lunch & Networking",
+        "des":""
     },
     {
-        "startTime":"03.00 PM",
-        "topic":"Session 5",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"02.00 PM",
+        "topic":"GCP Deployment",
+        "des":"In this session we will have a hands on experience on How to create a Web Application and deploy it on Google Cloud Platform."
     },
     {
         "startTime":"04.00 PM",
-        "topic":"Session 6",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "topic":"Closing Note",
+        "des":"Bye!! Thanks for coming.."
     }
 
 ]

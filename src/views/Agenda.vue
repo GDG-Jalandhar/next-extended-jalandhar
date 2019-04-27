@@ -1,29 +1,6 @@
 <template>
   <v-content class="pa-0">
 
-    <v-container fluid class="pt-3 mb-0">
-      <v-layout wrap align-center justify-center row fill-height class="my-0">
-        <v-flex xs12 md10 class="my-0">
-          <!-- <v-img
-            :src="require('@/assets/img/next19big.png')"
-            :lazy-src="require('@/assets/img/next19big.png')"
-            width="30vh">
-            <v-layout
-                slot="placeholder"
-                fill-height
-                align-center
-                justify-center
-                ma-0
-            >
-                <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
-            </v-layout>
-        </v-img> -->
-
-          <!-- <p class="google-font mb-0" style="font-size:200%;color:#0277bd">Attending</p> -->
-        </v-flex>
-      </v-layout>
-    </v-container>
-
     <v-container fluid class=" pa-0 pt-3" style="border-bottom: 1px solid #e0e0e0;" >
       <v-layout wrap align-center justify-center row fill-height class="my-0" >
         <v-flex xs12 md10 class="my-0">
@@ -32,8 +9,7 @@
             tabs
             flat
             >
-            <!-- :style="{'background-image':'url('+require('@/assets/img/svg/bg2.svg')+')'}"
-            style="background-position:right top" -->
+           
 
             <v-toolbar-title class="google-font" style="font-weight: 350;color: #616161;font-size:200%">Agenda</v-toolbar-title>
             <template v-slot:extension>

@@ -1,7 +1,5 @@
 # Next Extendnd Jalandhar
 
-<img width="100%" src="https://doc-0g-20-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/1o2trjk5rdn7se60vjushc9q3k662n8h/1551355200000/03213074667067221613/*/1VOuBc_AnzShLOrdINh62I_jeVlnPWxRX">
-
 
 ## Overview
 

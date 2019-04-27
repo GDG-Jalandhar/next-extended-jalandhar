@@ -30,12 +30,13 @@
         <v-card-title
           class="headline grey lighten-2"
           primary-title
-        >
+        > 
           {{data.jsonData.title}}
         </v-card-title>
 
         <v-card-text>
-            <p class="google-font mb-0">{{data.jsonData.des}}</p>
+          <p class="google-font mb-1"><b>Description:</b></p>
+          <p class="google-font mb-0" style="font-size:110%">{{data.jsonData.des}}</p>
 
         </v-card-text>
 

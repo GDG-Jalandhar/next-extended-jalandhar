@@ -9,12 +9,12 @@
                 <!-- style="text-align:center;border: 1px solid #e0e0e0;min-height:250px;border-radius:7px" -->
                 <v-hover>
                 <div slot-scope="{ hover }"
-                    style="border-radius: 5px; border:1px solid #e0e0e0"
+                    style="border-radius: 5px; border:1px solid #e0e0e0;min-height:180px"
                     :class="`elevation-${hover ? 5 : 0}`"
                     class="ma-1 pa-3 my-0" >
                     <img src="https://www.gstatic.com/images/branding/product/1x/google_cloud_48dp.png" class="mb-0" width="30vh">
                     <p class="mt-0 mb-0 google-font" style="font-size:130%">{{item.title}}</p>
-                    <p class="mt-1 mb-0 google-font">{{item.des | summery(150)}}</p>
+                    <p class="mt-1 mb-0 google-font">{{item.des | summery(90)}}</p>
                     <SessionDialog :data="{jsonData: item}" />
                 </div>
                 </v-hover>
@@ -44,13 +44,6 @@ export default {
         
     },
     methods:{
-        getImgUrl(pic) {
-            if(pic.length>0){
-                return require('@/assets/img/team/'+pic)
-            }else{
-                return require('@/assets/img/team/avatar.png')
-            }
-        },
     },
     filters:{
         summery: (val,num)=>{

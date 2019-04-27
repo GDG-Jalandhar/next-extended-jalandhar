@@ -95,9 +95,9 @@
     methods: {
         getImgUrl(pic) {
             if(pic.length>0){
-                return require('@/assets/img/team/'+pic)
+                return require('@/assets/img/speakers/'+pic)
             }else{
-                return require('@/assets/img/team/avatar.png')
+                return require('@/assets/img/speakers/avatar.png')
             }
         },
     },
