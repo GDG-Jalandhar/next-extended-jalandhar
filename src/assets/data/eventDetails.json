@@ -1,0 +1,17 @@
+{
+    "EventName":"Next'19 Extended Jalandhar",
+    "EventDate":{
+        "Date":"18",
+        "Month":"5",
+        "Year":"2019"
+    },
+    "EventTime":{
+        "StartTime":"09:00 AM",
+        "EndTime":"04:30 PM"
+    },
+    "EventVenue":"CT Group Of Institutions, Urban State 2, Prathapura Road, Shahpur, Jalandhar",
+    "EventDescription":"Next Extended brings together developer communities around the world to take part in the Next ’19 experience and allowing local developers to access exciting Next ’19 content and engage with peers across the community through hands-on labs and speaker events.",
+    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/260638018/",
+    "RegistrationLink":"https://gdgjalandhar.com/links/next19-jalandhar-registration"
+}
+
