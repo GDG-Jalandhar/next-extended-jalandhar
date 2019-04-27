@@ -7,10 +7,10 @@ export default new Vuex.Store({
   state: {
     drawer: false,
     items: [ 
-      { text: 'Home', to: '/', icon:'home'},
-      { text: 'Attending', to: '/attending', icon: 'rounded_corner'},
-      { text: 'Agenda', to: '/agenda', icon:'person'},
-      { text: 'Speakers', to: '/speakers', icon:'group'}
+      { text: 'Home', to: '/', icon:'dashboard'},
+      { text: 'Attending', to: '/attending', icon: 'perm_contact_calendar'},
+      { text: 'Agenda', to: '/agenda', icon:'playlist_add_check'},
+      { text: 'Speakers', to: '/speakers', icon:'supervisor_account'}
       
     ]
   },

@@ -5,7 +5,7 @@
                 <p class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;" >Featured Sessions </p>
                 <p class="google-font">Hone your skills. Ask technical questions. Get inspired. This year’s program is packed with breakouts, keynotes, spotlights, panels, and bootcamps. See More</p>
             </v-flex>
-            <v-flex xs12 sm3 md3 lg3 v-for="(item,i) in SessionDeails.slice(0, 8)" :key="i" class="" >
+            <v-flex xs12 sm3 md3 lg3 v-for="(item,i) in SessionDeails.slice(0, 4)" :key="i" class="" >
                 <!-- style="text-align:center;border: 1px solid #e0e0e0;min-height:250px;border-radius:7px" -->
                 <v-hover>
                 <div slot-scope="{ hover }"
