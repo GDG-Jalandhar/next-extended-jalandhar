@@ -1,6 +1,6 @@
 # Next Extendnd Jalandhar
 
-
+<img src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/next19extended-webapp.PNG" width="100%">
 ## Overview
 
 Next Extendnd Jalandhar is the website template that helps you to set GDG's Communities Next Extended website with events, team and  management in a few minutes.
