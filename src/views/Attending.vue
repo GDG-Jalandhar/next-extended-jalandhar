@@ -10,7 +10,7 @@
 
           <p class="google-font mt-0" style="font-size:130%">When: {{eventDetails.EventDate.Date}}-{{eventDetails.EventDate.Month}}-{{eventDetails.EventDate.Year}} <br>Where: {{eventDetails.EventVenue}}  </p> 
           
-            <v-btn :href="eventDetails.RegistrationLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Requst for an Invatation</v-btn>
+            <v-btn :href="eventDetails.RegistrationLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Requst for an Invitation</v-btn>
 
             &nbsp;
 

@@ -36,7 +36,7 @@
                     </span>
                 </p>
 
-                <v-btn :href="eventDetails.RegistrationLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Requst for an Invatation</v-btn>
+                <v-btn :href="eventDetails.RegistrationLink" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Requst for an Invitation</v-btn>
 
                 &nbsp;
 

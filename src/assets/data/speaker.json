@@ -52,30 +52,17 @@
         "des":""
     },
     {
-        "name":"Ishita Agnihotri",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/ishitaagnihotr1",
-        "linkedin":"https://twitter.com/Sonakshishukla1",
-        "github":"",
-        "profileImage":"ishita.jpg",
-        "website":"",
-        "city":"Gurugram",
-        "country":"India",
-        "company":"Applicate IT Solutions",
-        "des":""
-    },
-    {
-        "name":"Ojasvi Bhargav",
+        "name":"Ojasvi Bhargava",
         "designation":"DevOps",
         "twitter":"https://twitter.com/BhargavaOjasvi",
         "linkedin":"",
         "github":"",
-        "profileImage":"",
+        "profileImage":"ojasvi.jpg",
         "website":"",
         "city":"Chandigarh",
         "country":"India",
         "company":"ONE Business Consulting Group",
-        "des":""
+        "des":"Ojasvi is currently working as a DevOps intern at OneBCG. She's a Microsoft Technology Associate, and a cloud enthusiast who thrives to learn and upskill herself. Self motivated and determined, she is a Google India Challenge Scholarship recipient, and is well versed with Google cloud and its specifications. She has also been a GDG speaker at various cloud events."
     },
     {
         "name":"Rohan Singh",

@@ -22,5 +22,9 @@
     {
         "title":"ML with GCP",
         "des":"We will cover that, 'How to integrate/use Google Cloud APIs with Machine Learning?' in this session. We will also cover the various APIs like Vision API, Speech recognition API, Video Intelligence API, etc provided by Google Cloud Platform."
+    },
+    {
+        "title":"Designing and Implementing Disaster Recovery using GCP",
+        "des":"Disasters and service interrupting events can occur at any time. When things go wrong, it's important to have a robust and well tested disaster Recovery plan. In this session, we cover how you can use GCP as a part of your DR plan, whether you're running prod workloads on GCP, on premises, or on another cloud."
     }
 ]
