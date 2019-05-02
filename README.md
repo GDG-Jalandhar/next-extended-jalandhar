@@ -1,11 +1,14 @@
 # Next Extendnd Jalandhar
 
 <img src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/next19extended-webapp.PNG" width="100%">
+
 ## Overview
 
 Next Extendnd Jalandhar is the website template that helps you to set GDG's Communities Next Extended website with events, team and  management in a few minutes.
 
 The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups.
+
+[Demo](https://next.gdgjalandhar.com/)
 
 ## Features
 | Feature | Description |
@@ -66,8 +69,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * [Vuetify](https://vuetifyjs.com/en/)
 * [Firebase](https://firebase.google.com/)
 * [Service Worker & PWA](https://www.npmjs.com/package/vue-pwa)
-
-
 
 
 
